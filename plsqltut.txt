@@ -1,0 +1,12 @@
+--------------GIt & Github-----------------
+Git-----developer use to interact with github code or do some changes in code and save for others changes.
+1----UTRACKED--UNMODIFIED--MODIFIED---STAGE
+    -------------------------------------->
+       aDD THE FILE
+                <--------------------------
+                      COMMIT
+                --------------------------->
+                    EDIT AND STAGE THE FILE
+
+
+--------------------------------------------------------
